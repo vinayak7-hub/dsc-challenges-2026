@@ -17,8 +17,8 @@ import json
 # ==============================================================================
 # RECRUIT METADATA (Fill these in with your real details)
 # ==============================================================================
-STUDENT_USN = "01FEXXXXXXXX"        # e.g., "01FE25BCS122"
-STUDENT_NAME = "Your Full Name"     # e.g., "Ajay Mallappa"
+STUDENT_USN = "01FE25BCS417"        # e.g., "01FE25BCS122"
+STUDENT_NAME = "Vinayak Dombarakoppa"     # e.g., "Ajay Mallappa"
 BRANCH = "CSE"                      # e.g., "CSE", "AI/DS", "ECE"
 TRACK = "CREDIT_TRACK_YEAR2"        # "CREDIT_TRACK_YEAR2" or "GROWTH_TRACK_YEAR1"
 
